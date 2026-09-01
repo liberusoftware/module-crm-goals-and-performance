@@ -1,0 +1,5 @@
+{"name":"liberusoftware/module-crm-goals-and-performance","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\GoalsAndPerformance\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\GoalsAndPerformance\\GoalsAndPerformanceServiceProvider"]},"liberu":{"name":"crm-goals-and-performance"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
